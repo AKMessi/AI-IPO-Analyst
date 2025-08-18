@@ -8,7 +8,7 @@ App Screenshot
 
 📄 PDF Data Ingestion: Automatically parses complex DRHP PDFs to extract key financial statements (Balance Sheet, P&L, Cash Flow).
 
-🧠 Custom Analysis Engine: Leverages Google's Gemini 1.5 Pro via LangChain to conduct a nuanced analysis of the company's financial health based on a predefined methodology.
+🧠 Custom Analysis Engine: Leverages Google's Gemini 2.5 Pro via LangChain to conduct a nuanced analysis of the company's financial health based on a predefined methodology.
 
 🌐 Web-Enabled Enrichment: Autonomously searches the web using the Tavily API to fetch critical, up-to-the-minute data points like Industry P/E ratios, peer company P/Es, and the latest Grey Market Premium (GMP).
 
